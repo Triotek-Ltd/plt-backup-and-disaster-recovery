@@ -1,0 +1,35 @@
+[
+  {
+    "module_code": "plt13_1",
+    "module_label": "PLT.13.1 - Backup Scheduling & Logging",
+    "module_title": "Backup Scheduling & Logging",
+    "module_slug": "backup_scheduling_and_logging",
+    "app_code": "plt13",
+    "app_label": "PLT 13 - Backup & Disaster Recovery",
+    "bundle_code": "plt",
+    "source_md_path": "doc/rnd/plugs/plt/plt1.md"
+  },
+  {
+    "module_slug": "config"
+  },
+  {
+    "module_code": "plt13_3",
+    "module_label": "PLT.13.3 - Failover Execution & Monitoring",
+    "module_title": "Failover Execution & Monitoring",
+    "module_slug": "failover_execution_and_monitoring",
+    "app_code": "plt13",
+    "app_label": "PLT 13 - Backup & Disaster Recovery",
+    "bundle_code": "plt",
+    "source_md_path": "doc/rnd/plugs/plt/plt1.md"
+  },
+  {
+    "module_code": "plt13_2",
+    "module_label": "PLT.13.2 - Recovery Testing & Logging",
+    "module_title": "Recovery Testing & Logging",
+    "module_slug": "recovery_testing_and_logging",
+    "app_code": "plt13",
+    "app_label": "PLT 13 - Backup & Disaster Recovery",
+    "bundle_code": "plt",
+    "source_md_path": "doc/rnd/plugs/plt/plt1.md"
+  }
+]
